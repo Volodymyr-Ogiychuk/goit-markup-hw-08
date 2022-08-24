@@ -516,7 +516,7 @@ ul {
   padding: 0;
   border: none;
   background-color: transparent;
-  z-index: 1;
+  z-index: 3;
 }
 .mobile-menu__button .icon-close {
   display: none;
